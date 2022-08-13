@@ -35,7 +35,7 @@ Este complemento ha sido probado exitósamente en Windows y Android. Por razones
 - **Paso 2:** Extrae las carpetas `radc` y `python-packages`, y coloca estas carpetas en el interior de la carpeta `game` de tu proyecto.
 - **Paso 3:** ¡Empieza a usar RADC en tu proyecto! El archivo `script.rpy` contiene un ejemplo para que puedas ejecutar descargas.
 
-![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) Recomiendo encarecidamente leer el archivo `Documentacion_RADC.pdf` incluido en el paquete ZIP de este release. Contiene instrucciones de uso con fragmentos de código incluido e información sobre las clases, métodos y screens que puedes usar de RADC.
+![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) Recomiendo encarecidamente leer la [Documentación de RADC](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement/blob/f9abed62e79c8bd529b2aa32fb6f2bdca07cd15e/DOCUMENTACION.md). Contiene instrucciones de uso con fragmentos de código incluido e información sobre las clases, métodos y screens que puedes usar de RADC.
 
 ¡Recuerda! Este complemento aún esta bajo pruebas, por lo que puede tener errores. Si encontraste un error de funcionamiento, reportalo en el repositorio o contáctame en [Telegram @CharlieFuu69](https://t.me/CharlieFuu69)
 
