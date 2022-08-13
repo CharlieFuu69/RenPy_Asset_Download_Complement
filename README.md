@@ -5,7 +5,7 @@
 [cc-by-sa-shield]: https://img.shields.io/badge/Licencia-CC--BY--SA%204.0-brightgreen
 [renpy-shield]: https://img.shields.io/badge/Software-Ren'Py-red
 
-# RADC- Ren'Py Asset Download Complement
+# RADC - Ren'Py Asset Download Complement
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy]
 
