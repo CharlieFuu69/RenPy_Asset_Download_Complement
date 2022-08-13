@@ -9,8 +9,6 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy]
 
-> [v1.1a] Esta versión incluye optimización del código para realizar descargas.
-
 Bienvenido(a) a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
 
 ## ¿Para qué sirve RADC?
