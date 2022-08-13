@@ -33,7 +33,7 @@ Este complemento ha sido probado exitósamente en Windows y Android. Por razones
 
 ![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) Recomiendo encarecidamente leer el archivo `Documentacion_RADC.pdf` incluido en el paquete ZIP de este release. Contiene instrucciones de uso con fragmentos de código incluido e información sobre las clases, métodos y screens que puedes usar de RADC.
 
-¡Recuerda! Esta versión es un pre-lanzamiento por lo que puede tener errores. Si tienes dudas sobre cómo usar RADC, puedes contactarme en [Telegram @CharlieFuu69](https://t.me/CharlieFuu69)
+¡Recuerda! Este complemento aún esta bajo pruebas, por lo que puede tener errores. Si encontraste un error de funcionamiento, reportalo en el repositorio o contáctame en [Telegram @CharlieFuu69](https://t.me/CharlieFuu69)
 
 ---
 ## Capturas de RADC en funcionamiento:
