@@ -5,11 +5,11 @@
 [cc-by-sa-shield]: https://img.shields.io/badge/Licencia-CC--BY--SA%204.0-brightgreen
 [renpy-shield]: https://img.shields.io/badge/Software-Ren'Py-red
 
-# Ren'Py Asset Download Complement (RADC)
+# RADC- Ren'Py Asset Download Complement
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy]
 
-Bienvenido(a) a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
+¡Hola! Te presento a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
 
 ## ¿Para qué sirve RADC?
 RADC es un complemento que le da la facilidad a tu juego para descargar contenido desde un servidor. Puedes utilizarlo para que tu juego descargue distintos tipos de archivos en el disco, y que el jugador (o el mismo juego) los pueda utilizar posterior a su descarga. Un ejemplo de implementación de RADC en tu juego, podría ser para descargar DLCs.
