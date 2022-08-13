@@ -5,7 +5,11 @@
 [cc-by-sa-shield]: https://img.shields.io/badge/Licencia-CC--BY--SA%204.0-brightgreen
 [renpy-shield]: https://img.shields.io/badge/Software-Ren'Py-red
 
-# RADC - Ren'Py Asset Download Complement
+<p align="center">
+  <img width="176" height="200" src="https://user-images.githubusercontent.com/77955772/184478128-93046a80-f326-43c9-9960-efdcd61f03b6.png">
+</p>
+
+<h1 align = "center"> RADC - Ren'Py Asset Download Complement </h1>
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy]
 
