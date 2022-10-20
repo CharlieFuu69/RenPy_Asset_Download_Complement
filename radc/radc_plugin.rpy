@@ -27,16 +27,17 @@ init python:
         return path
 
     # --------------------------------------------------------------------------------------------------------------- #
-    ## Obtención de URL de descarga (Mediafire)
+    ## Obtención de URL de descarga a partir de una URL compartida basada en nube.
+    ## Anteriormente llamado MediafireGetFile()
 
-    class MediafireGetFile(threading.Thread):
+    class SharedCloudGetFile(threading.Thread):
         """Esta clase se encarga de obtener la URL final de un archivo almacenado en
-        Mediafire."""
+        alguna nube que muestre la URL final en la página de descarga del archivo."""
 
         def __init__(self, shared_url):
             """Inicializa y construye los atributos de la clase."""
 
-            super(MediafireGetFile, self).__init__()
+            super(SharedCloudGetFile, self).__init__()
             self.daemon = True ## Ejecuta el hilo como un daemon
 
             self.shared_url = shared_url ## La URL compartida
