@@ -52,7 +52,7 @@ screen download(url, savepath = None):
 
 screen mediafire_dl(shared_url, savepath = None):
     ## Esta screen se usa para cuando quieres descargar un archivo alojado en Mediafire.
-    default dlfetch = MediafireGetFile(shared_url)
+    default dlfetch = SharedCloudGetFile(shared_url)
     on "show" action Function(dlfetch.start)
 
     ## ¿Finalizó la descarga?
