@@ -4,10 +4,10 @@
 
 <h1 align = "center"> RADC - Ren'Py Asset Download Complement </h1>
 
-## Documentación del complemento (Válido para la v1.2)
+## Documentación del complemento (Válido para la v1.3)
 
 En este archivo Markdown encontrarás información detallada sobre los elementos que puedes usar de este sistema de descargas. Esto aplica bastante para los usuarios que quieran crear screens propias y omitir las plantillas que se incluyen en este complemento.
-Esta Mini-documentación considera que posees conocimientos abundantes sobre el _Lenguaje de Pantallas de Ren’Py_ y conocimientos fundamentales de Python, ya que son necesarios para poder utilizar el complemento y crear UI customizada.
+Esta Mini-documentación considera que posees conocimientos abundantes sobre el <ins>_Lenguaje de Pantallas de Ren’Py_</ins> y conocimientos fundamentales de Python, ya que son necesarios para poder utilizar el complemento y crear UI customizada.
 La información estará distribuida en dos ítems generales:
 
 - Uso de las Screens prefabricadas (plantilla).
@@ -56,6 +56,8 @@ label start:
 #### 1.2. Screen `mediafire_dl(shared_url, savepath = None)`:
 
 Esta screen, a diferencia de `download()`, es para ejecutar descargas de archivos alojados en la nube de Mediafire. A su vez, utiliza a la screen `download()` para realizar la descarga una vez que haya encontrado la URL final de descarga de Mediafire.
+
+> _**NOTA:** Esta screen también puede usarse para descargar archivos desde AnonFiles (Ver detalles en README.MD)._
 
 - **`shared_url` (String):** _Recibe una cadena con **la URL compartida del archivo** alojado en Mediafire. La URL compartida es el que te entrega Mediafire para compartir tu archivo con el resto del mundo. Este parámetro es obligatorio._
 - **`savepath` (String):** _Si no es `None`, al igual que en la screen `download()`, es una cadena con el nombre del archivo o la ruta de descarga del archivo._
