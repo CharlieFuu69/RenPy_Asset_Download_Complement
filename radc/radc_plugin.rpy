@@ -6,6 +6,8 @@
 ##       Android: [Funciona]
 ##       Linux: [Aún no comprobado]
 
+init offset = -5
+
 # ----------------------------------------------------------------------------------------------------------------- #
 
 init python:
@@ -43,7 +45,7 @@ init python:
             self.shared_url = shared_url ## La URL compartida
 
             self.fetch_finish = False ## Bandera de recuperación terminada
-            self.url_end = [] ## La URL definitiva extraida
+            self.url_end = None ## La URL definitiva extraida
             self.fetch_exception = None ## Bandera de excepciones
 
         def status(self):
@@ -65,25 +67,26 @@ init python:
 
             ## Encabezados para pasar en solicitud GET
             headers = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
-            url_prefixes = ("https://download", "https://cdn")
+            url_prefixes = ("https://download", "https://cdn-")
 
             try:
                 ssl._create_default_https_context = ssl._create_unverified_context
 
-                for k in self.shared_url:
-                    r = requests.get(k, headers = headers)
-                    url = re.findall('"((http|ftp)s?://.*?)"', r.text)
+                r = requests.get(self.shared_url, headers = headers)
+                url = re.findall('"((http|ftp)s?://.*?)"', r.text)
 
-                    ## Recorre las URLs encontradas en busca de la URL final
-                    ## Se actualizaron los prefijos de URLs finales (son compatibles todos los prefijos de la línea 67)
-                    for i in url:
-                        if i[0].startswith(url_prefixes):
-                            self.url_end.append(i[0])
-                        else:
-                            pass
+                ## Recorre las URLs encontradas en busca de la URL final
+                ## Se actualizaron los prefijos de URLs finales (son compatibles todos los prefijos de la línea 70)
+                for i in url:
+                    if i[0].startswith(url_prefixes):
+                        self.url_end = i[0]
+                        break
+                    else:
+                        pass
 
             except Exception as fetcherr:
                 self.fetch_exception = fetcherr
+                print("[Error - SharedCloudGetFile]: %s" % fetcherr)
 
             finally:
                 self.fetch_finish = True
@@ -160,6 +163,7 @@ init python:
             except Exception as ex:
                 self.exception_output = ex
                 self.dl_percent = 0.0
+                print("[Error - DownloadHandler]: %s" % ex)
             finally:
                 self.dl_status = True
                 renpy.restart_interaction()
