@@ -47,7 +47,7 @@ label start:
 label start:
     $ link = “https://www.ejemplo.com/nombre_del_archivo.zip”
     $ path = searchpath() + “/nombre_del_archivo.zip”
-    call screen DownloadNow(url = link, savepath = path)
+    call screen download(url = link, savepath = path)
     ## Esto descargará "nombre_del_archivo.zip" en la ruta “/game/nombre_del_archivo.zip” de tu juego
 ```
 
