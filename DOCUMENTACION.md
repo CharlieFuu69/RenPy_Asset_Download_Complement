@@ -112,7 +112,7 @@ Los métodos que pueden ser usados para tu juego, son los siguientes:
 
 #### 2.2. Clase `SharedCloudGetFile(shared_url)`:
 
-Esta clase de encarga de extraer la URL final de un archivo alojado en la nube de Mediafire, en base a la URL compartida de ese archivo. Al igual que `DownloadHandler()`, esta clase utiliza la librería `threading` para ejecutarse en un hilo distinto al que se ejecuta el resto del juego.
+Esta clase de encarga de extraer la URL final de un archivo alojado en la nube de Mediafire o en AnonFiles, en base a la URL compartida de ese archivo. Al igual que `DownloadHandler()`, esta clase utiliza la librería `threading` para ejecutarse en un hilo distinto al que se ejecuta el resto del juego.
 Recibe el siguiente parámetro:
 
 - **`shared_url` (String):** _Recibe una cadena con la URL compartida del archivo alojado en Mediafire. Este parámetro es obligatorio para que la clase funcione correctamente._
