@@ -14,6 +14,8 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy] ![build-shield]
 
+**Versión Actual: `v1.3a`**
+
 ¡Hola! Te presento a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
 
 ## ¿Para qué sirve RADC?
@@ -35,11 +37,11 @@ Este complemento ha sido probado exitósamente en Windows y Android. Por razones
 
 ## ¿Cómo añadir el complemento RADC a un proyecto de Ren'Py?:
 
-- **Paso 1:** Descarga el archivo `RADC_v1.2a.zip` de este release, en tu computadora.
+- **Paso 1:** Descarga el archivo `RADC_v1.3a.zip` de este release, en tu computadora.
 - **Paso 2:** Extrae las carpetas `radc` y `python-packages`, y coloca estas carpetas en el interior de la carpeta `game` de tu proyecto.
 - **Paso 3:** ¡Empieza a usar RADC en tu proyecto! El archivo `script.rpy` contiene un ejemplo para que puedas ejecutar descargas.
 
-![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) Recomiendo encarecidamente leer la [Documentación de RADC](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement/blob/f9abed62e79c8bd529b2aa32fb6f2bdca07cd15e/DOCUMENTACION.md). Contiene instrucciones de uso con fragmentos de código incluido e información sobre las clases, métodos y screens que puedes usar de RADC.
+![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) Recomiendo encarecidamente leer la [Documentación de RADC](DOCUMENTACION.md). Contiene instrucciones de uso con fragmentos de código incluido e información sobre las clases, métodos y screens que puedes usar de RADC.
 
 ¡Recuerda! Este complemento aún esta bajo pruebas, por lo que puede tener errores. Si encontraste un error de funcionamiento, reportalo en la sección <ins>**"Issues"**</ins> del repositorio o contáctame en [Telegram @CharlieFuu69](https://t.me/CharlieFuu69)
 
