@@ -14,7 +14,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy] ![build-shield]
 
-**Versión Actual: `v1.3a`**
+* **Versión Actual: `v1.3a` - [¡Descargar aquí!](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement/releases/tag/v1.3a)**
 
 ¡Hola! Te presento a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
 
@@ -27,7 +27,7 @@ Este complemento se basa en el módulo `wget` (hecho en Python), que puedes enco
 ## ¿Qué tiene de bueno RADC?
 
 RADC puede mostrar el progreso de descarga de forma visual en tu juego, mostrando una barra de progreso, señalando el tamaño descargado/tamaño total de la descarga (en Megabytes), y el porcentaje descargado en total (mira los Screenshots de abajo para que te hagas la idea).
-Puede realizar la descarga de un archivo almacenado en un servidor, y también posee compatibilidad para descargar archivos desde Mediafire en caso de que no dispongas de un servidor de paga. Simplemente proporciona la URL del archivo a descargar, ¡RADC se encargará del resto!
+Puede realizar la descarga de un archivo almacenado en un servidor, o si no tienes para costear un servidor, también posee compatibilidad para descargar archivos desde [Mediafire](https://www.mediafire.com/) y [Anonfiles](https://anonfiles.com/). ¡Simplemente proporciona la URL del archivo a descargar, y RADC se encargará del resto!
 
 ## ¿Y qué tal la compatibilidad entre sistemas operativos?
 
