@@ -14,6 +14,18 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy] ![build-shield]
 
+> ![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) **ADVERTENCIA:** En estos momentos, RADC está siendo reacondicionado debido a múltiples reportes de bugs, por lo que no se recomienda utilizar en juegos en fase de producción.
+> El proceso de reacondicionado de RADC, implica los siguientes cambios:
+> 
+> - [x] Eliminar la dependencia de WGET para realizar las descargas.
+> - [x] Realizar el proceso de descarga de manera nativa (esto es muy bueno).
+> - [ ] Recompatibilización de RADC para que sea completamente Cross-Platform.
+> - [x] Modificaciones a la interfaz de descargas por defecto.
+> - [x] Agregar medidor de ancho de banda de descarga en tiempo real (kB/s o MB/s).
+> - [ ] Eliminar soporte para Mediafire (Los nuevos filtros de Cloudflare dificultan el mantenimiento de esta característica).
+> - [x] Agregar soporte de descargas de GitHub mediante GitHub API (Requerirá severas modificaciones a la documentación).
+> - [x] Agregar contador de bloques descargados (ahora se podrán hacer descargas de lotes de archivos como una descarga única).
+
 * **Versión Actual: `v1.3a` - [¡Descargar aquí!](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement/releases/tag/v1.3a)**
 
 ¡Hola! Te presento a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
