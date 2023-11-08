@@ -1,8 +1,8 @@
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[license]: https://www.gnu.org/licenses/gpl-3.0
 [renpy]: https://renpy.org/
 
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/Licencia-CC--BY--SA%204.0-brightgreen
+[license-badge]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge&logo=creativecommons
+[license-image]: https://www.gnu.org/graphics/gplv3-with-text-136x68.png
 [renpy-shield]: https://img.shields.io/badge/Software-Ren'Py-red
 [build-shield]: https://img.shields.io/badge/Build-Passing-green
 
@@ -12,7 +12,7 @@
 
 <h1 align = "center"> RADC - Ren'Py Asset Download Complement </h1>
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy] ![build-shield]
+[![license-badge]][license] [![RenPy][renpy-shield]][renpy] ![build-shield]
 
 > ![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) **ADVERTENCIA:** En estos momentos, RADC está siendo reacondicionado debido a múltiples reportes de bugs, por lo que no se recomienda utilizar en juegos en fase de producción.
 > El proceso de reacondicionado de RADC, implica los siguientes cambios:
@@ -69,9 +69,9 @@ Este complemento ha sido probado exitósamente en Windows y Android. Por razones
 
 ## Licencia de este complemento :
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa] [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![license-image]][license]
 
-Este complemento está protegido con la licencia del repositorio ["Codigos_RenPy"](https://github.com/CharlieFuu69/Codigos_RenPy), es decir, la licencia [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Tienes permiso de modificar el complemento y compartirlo, con la única condición de que me atribuyas el contenido original :3
+Este complemento está protegido bajo la licencia **[GPL v3.0](https://www.gnu.org/licenses/gpl-3.0)**.
 
 ##### WGET:
 
