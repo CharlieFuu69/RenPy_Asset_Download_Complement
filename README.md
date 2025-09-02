@@ -1,10 +1,12 @@
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [renpy]: https://renpy.org/
+[license]: https://www.gnu.org/licenses/gpl-3.0
 
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/Licencia-CC--BY--SA%204.0-brightgreen
-[renpy-shield]: https://img.shields.io/badge/Software-Ren'Py-red
-[build-shield]: https://img.shields.io/badge/Build-Passing-green
+<!-- Badges del README --->
+[renpy-badge]: https://img.shields.io/badge/Ren'Py-v8.4.1-red?style=for-the-badge&logo=python
+[license-badge]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge&logo=creativecommons
+[license-image]: https://www.gnu.org/graphics/gplv3-with-text-136x68.png
+[status-badge]: https://img.shields.io/badge/Version%20Status-Testing-444444?style=for-the-badge
 
 <p align="center">
   <img width="176" height="200" src="https://user-images.githubusercontent.com/77955772/184478128-93046a80-f326-43c9-9960-efdcd61f03b6.png">
@@ -12,21 +14,10 @@
 
 <h1 align = "center"> RADC - Ren'Py Asset Download Complement </h1>
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![RenPy][renpy-shield]][renpy] ![build-shield]
+[![license-badge]][license] [![renpy-badge]][renpy] ![status-badge]
 
-> ![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) **ADVERTENCIA:** En estos momentos, RADC está siendo reacondicionado debido a múltiples reportes de bugs, por lo que no se recomienda utilizar en juegos en fase de producción.
-> El proceso de reacondicionado de RADC, implica los siguientes cambios:
-> 
-> - [x] Eliminar la dependencia de WGET para realizar las descargas.
-> - [x] Realizar el proceso de descarga de manera nativa (esto es muy bueno).
-> - [ ] Recompatibilización de RADC para que sea completamente Cross-Platform.
-> - [x] Modificaciones a la interfaz de descargas por defecto.
-> - [x] Agregar medidor de ancho de banda de descarga en tiempo real (kB/s o MB/s).
-> - [ ] Eliminar soporte para Mediafire (Los nuevos filtros de Cloudflare dificultan el mantenimiento de esta característica).
-> - [x] Agregar soporte de descargas de GitHub mediante GitHub API (Requerirá severas modificaciones a la documentación).
-> - [x] Agregar contador de bloques descargados (ahora se podrán hacer descargas de lotes de archivos como una descarga única).
-
-* **Versión Actual: `v1.3a` - [¡Descargar aquí!](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement/releases/tag/v1.3a)**
+> [!NOTE]
+> _Se está preparando una versión totalmente renovada de este gestor de recursos, enfocado a usar GitHub como CDN de assets._
 
 ¡Hola! Te presento a RADC, un complemento de descargas In-Game que puedes integrar en juegos desarrollados con el motor "Ren'Py".
 
