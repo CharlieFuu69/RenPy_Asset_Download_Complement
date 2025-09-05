@@ -1,11 +1,7 @@
 # Directories that Ren'Py changes files in.
-/game/audio
 /game/saves
 /game/cache
-/game/gui
-/game/images
 /game/libs
-/game/tl
 
 # Compiled script files. These are important for saving, and so should
 # be preserved by developer and build systems after the game has been released.
