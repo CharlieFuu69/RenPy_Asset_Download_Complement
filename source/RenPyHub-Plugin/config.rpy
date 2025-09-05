@@ -25,9 +25,9 @@ define IS_PUBLIC_REPO = True
 define FINE_GRAINED_TOKEN = None
 
 ## Datos requeridos en los Endpoints
-define GITHUB_USERNAME = "CharlieFuu69"
-define REPO_NAME = "RenPyHub-Plugin"
-define RELEASE_TAG = " cdn_tests"
+define GITHUB_USERNAME = ""
+define REPO_NAME = ""
+define RELEASE_TAG = ""
 
 ## URL de la web donde se puede descargar el ejecutable de tu juego
-define GAME_WEBSITE_URL = "https://github.com/CharlieFuu69/RenPyHub-Plugin"
+define GAME_WEBSITE_URL = ""

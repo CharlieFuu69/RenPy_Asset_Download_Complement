@@ -11,7 +11,7 @@
 [status-badge]: https://img.shields.io/badge/Version%20Status-Stable-CCFF00?style=for-the-badge
 
 <p align="center">
-  <img width="1920" height="700" alt="renpyhub-banner" src="https://github.com/user-attachments/assets/47e0761d-0180-44ff-a12b-3628168e45d4" />
+  <img width="100%" height="100%" alt="renpyhub-banner" src="https://github.com/user-attachments/assets/c69c9d56-8cf5-4e39-bc3f-170b5f116c94" />
 </p>
 
 [![license-badge]][license] [![renpy-badge]][renpy] ![status-badge]
