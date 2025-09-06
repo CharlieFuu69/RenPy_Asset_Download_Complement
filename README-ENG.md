@@ -36,6 +36,8 @@ Hello! Meet **Ren'PyHub!**, an in-game download plugin that you can integrate in
 
 You can also enable the game to compare versions in case you update the game executable itself. For example, if your executable has version `v1.0`, and you have created a general update with a version `v1.1`, **Ren'PyHub** also has the ability to report that a new version of your game is available.
 
+https://github.com/user-attachments/assets/808783df-b032-40b5-ad25-2f353dbcaecd
+
 ---
 
 ### 2. Ren'PyHub Features
@@ -70,7 +72,11 @@ The features of Ren'PyHub as an Asset Manager are as follows:
 
 ### 3. Cross-OS Compatibility.
 
-This plugin has been tested on **Windows** and **Linux** distributions such as _"Linux Mint"_ and _"Ubuntu"_. Android compatibility will be worked in over time, as it is still possible to read RPA packages on mobile devices.
+| Environment | Compatibility   |
+| ----------- | --------------- | 
+| Windows     | ✅ (Confirmed) |
+| Linux dists | ✅ (Confirmed) |
+| Android     | 📌 (Pending)   |
 
 ---
 
@@ -100,5 +106,6 @@ Download the `RenPyHub-Plugin.zip` file from the **[Latest release][latest-relea
 [![license-image]][license]
 
 This plugin is distributed under the **[GPL v3.0][license]** license. If you use this plugin, please include a reference to this repository.
+
 
 
