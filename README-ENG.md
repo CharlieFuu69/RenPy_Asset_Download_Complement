@@ -85,7 +85,7 @@ git clone https://github.com/CharlieFuu69/RenPyHub-Plugin.git
 ```
 Or, download the project ZIP file and manually unzip it into your Ren'Py project folder:
 
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/922b213f-30e3-47f6-ae8c-87fd73230cc5" />
+<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/308ab1d1-4dfc-4a14-8534-28123c6cbcf9" />
 
 ---
 
@@ -100,4 +100,5 @@ Download the `RenPyHub-Plugin.zip` file from the **[Latest release][latest-relea
 [![license-image]][license]
 
 This plugin is distributed under the **[GPL v3.0][license]** license. If you use this plugin, please include a reference to this repository.
+
 
