@@ -18,19 +18,15 @@
 
 <p align="center">
   <a href="https://github.com/CharlieFuu69/RenPyHub-Plugin">
-    <img src="https://github.com/user-attachments/assets/eb856e26-472d-4fa4-8eba-6d4691be6e95"/>
+    <img src="https://github.com/user-attachments/assets/9eb4e8f5-7335-4deb-bd1c-e7769770c552"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/CharlieFuu69/RenPyHub-Plugin/releases/latest">
-    <img src="https://github.com/user-attachments/assets/d334dcc4-66d6-4904-801a-0e8293ef2788"/>
+    <img src="https://github.com/user-attachments/assets/b513a9d0-d810-4204-a7c1-3b7037543a17"/>
   </a>
   <a href="https://github.com/CharlieFuu69/RenPyHub-Plugin/wiki">
-    <img src="https://github.com/user-attachments/assets/6ca0675a-b636-4172-a2b0-d4363d657599"/>
+    <img src="https://github.com/user-attachments/assets/7691a45c-f8a3-40a8-8852-cf915e2510d5"/>
   </a>
 </p>
-
 
 Hello! Meet **Ren'PyHub!**, an in-game download plugin that you can integrate into games developed with the "Ren'Py" engine.
 
@@ -104,3 +100,4 @@ Download the `RenPyHub-Plugin.zip` file from the **[Latest release][latest-relea
 [![license-image]][license]
 
 This plugin is distributed under the **[GPL v3.0][license]** license. If you use this plugin, please include a reference to this repository.
+
