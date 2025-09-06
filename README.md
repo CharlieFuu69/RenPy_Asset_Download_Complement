@@ -36,6 +36,8 @@
 
 También puedes hacer que el juego pueda comparar versiones en caso de actualizar el ejecutable de tu juego en sí. Por ejemplo, si tu ejecutable tiene la versión `v1.0`, y has creado una actualización general con una versión `v1.1`, **Ren'PyHub** tiene también la capacidad de reportar que hay una nueva versión disponible de tu juego.
 
+https://github.com/user-attachments/assets/808783df-b032-40b5-ad25-2f353dbcaecd
+
 ---
 
 ### 2. Características de Ren'PyHub.
@@ -71,6 +73,12 @@ A grandes rasgos **Ren'PyHub** es un sistema de gestión de recursos, y sus cara
 
 ### 3. Compatibilidad entre sistemas operativos.
 
+| Entorno     | Compatibilidad  |
+| ----------- | --------------- | 
+| Windows     | ✅ (Confirmada) |
+| Linux dists | ✅ (Confirmada) |
+| Android     | 📌 (Pendiente)  |
+
 De manera efectiva, este plugin ha sido probado en Windows y en distribuciones de Linux como _"Linux Mint"_ y _"Ubuntu"_. La compatibilidad con Android se estará trabajando con el paso del tiempo, ya que igual es posible leer paquetes RPA en móviles.
 
 ---
@@ -101,4 +109,5 @@ Descarga el archivo `RenPyHub-Plugin.zip` desde el **[Release más reciente][lat
 [![license-image]][license]
 
 Este plugin se distribuye bajo la licencia **[GPL v3.0][license]**. Si utilizas este plugin, por favor, incluye una referencia a este repositorio.
+
 
