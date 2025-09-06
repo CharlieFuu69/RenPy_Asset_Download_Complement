@@ -18,16 +18,13 @@
 
 <p align="center">
   <a href="https://github.com/CharlieFuu69/RenPyHub-Plugin/blob/master/README-ENG.md">
-    <img src="https://github.com/user-attachments/assets/786d6940-58c7-4f8b-b84c-ef65b78258db"/>
-  </a>   
-</p>
-
-<p align="center">
+    <img src="https://github.com/user-attachments/assets/821b26ef-16a7-468f-ad1f-2c6d7bfeb72a"/>
+  </a>
   <a href="https://github.com/CharlieFuu69/RenPyHub-Plugin/releases/latest">
-    <img src="https://github.com/user-attachments/assets/abc73be8-d4ad-4f85-901e-a3f891549ca4"/>
+    <img src="https://github.com/user-attachments/assets/f4180695-4835-4a32-ad89-839288cb7066"/>
   </a>
   <a href="https://github.com/CharlieFuu69/RenPyHub-Plugin/wiki">
-    <img src="https://github.com/user-attachments/assets/2eed766d-27d1-44e5-8dee-41b40e726c09"/>
+    <img src="https://github.com/user-attachments/assets/8fd7b71e-f52a-4037-b3b1-8e0adb7cb064"/>
   </a>
 </p>
 
@@ -89,7 +86,7 @@ git clone https://github.com/CharlieFuu69/RenPyHub-Plugin.git
 ```
 O bien, descarga el archivo ZIP del proyecto y descomprímelo manualmente en tu carpeta de proyectos de Ren'Py:
 
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/922b213f-30e3-47f6-ae8c-87fd73230cc5" />
+<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/308ab1d1-4dfc-4a14-8534-28123c6cbcf9" />
 
 ---
 
@@ -104,3 +101,4 @@ Descarga el archivo `RenPyHub-Plugin.zip` desde el **[Release más reciente][lat
 [![license-image]][license]
 
 Este plugin se distribuye bajo la licencia **[GPL v3.0][license]**. Si utilizas este plugin, por favor, incluye una referencia a este repositorio.
+
